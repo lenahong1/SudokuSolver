@@ -10,7 +10,7 @@ import os
 import copy
 
 EPSILON = 0.000000001
-#commenting to see if this works etc
+#commenting to show this edit
 
 def validList(sudoku):
     """Checks if every list in a sudoku is valid.
