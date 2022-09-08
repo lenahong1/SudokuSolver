@@ -21,6 +21,7 @@ def validList(sudoku):
     may also be zero, in this case it is a blank spot.
     """
 
+    ///
     # For each row in the sudoku
     for l in sudoku:
         rangeList = list(range(1, len(sudoku) + 1))
